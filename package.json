@@ -2,7 +2,7 @@
   "name": "bytestacklab-theme-icons",
   "displayName": "ByteStackLab Theme Icons",
   "description": "File icon theme by ByteStackLab with clean and vibrant programming icons for VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bytestacklab",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -17,7 +17,7 @@
     "bytestacklab"
   ],
   "galleryBanner": {
-    "color": "#212121",
+    "color": "#050a24",
     "theme": "dark"
   },
   "repository": {
