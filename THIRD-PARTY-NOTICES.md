@@ -14,7 +14,9 @@ Material Extensions contributors, released under the MIT License.
 ### Changes made
 
 - Icon files and keys renamed where needed (for example `*.clone.svg` to `*-clone.svg`)
-- Some icons were modified or added by ByteStackLab, including extra folder color variants
+- All 590 folder icons (closed, open, and root variants) were redrawn by ByteStackLab with an original two-tone design (new tab shape, shaded back panel, separate front panel, rounded-square root marker)
+- The generic file icon was redrawn
+- Some other icons were modified or added by ByteStackLab, including extra folder color variants
 - Repackaged as the ByteStackLab Theme Icons extension
 
 ### License text
