@@ -1,0 +1,5 @@
+.vscode/
+generate_icons.py
+*.vsix
+.DS_Store
+node_modules/
