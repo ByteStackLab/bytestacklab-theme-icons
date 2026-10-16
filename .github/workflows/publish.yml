@@ -44,6 +44,8 @@ jobs:
         run: vsce package
 
       - name: Publish to Visual Studio Marketplace
+        id: marketplace
+        continue-on-error: true
         if: steps.check.outputs.release == 'true'
         run: vsce publish --skip-duplicate -p "$VSCE_PAT"
         env:
@@ -54,6 +56,10 @@ jobs:
         run: ovsx publish --skip-duplicate -p "$OVSX_TOKEN"
         env:
           OVSX_TOKEN: ${{ secrets.OVSX_TOKEN }}
+
+      - name: Warn if Marketplace publish failed
+        if: steps.marketplace.outcome == 'failure'
+        run: echo "::warning::Visual Studio Marketplace publish failed; Open VSX and the GitHub Release still proceed. Upload the .vsix manually or fix the error."
 
       - name: Extract this version's changelog section
         if: steps.check.outputs.release == 'true'
