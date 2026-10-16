@@ -3,3 +3,8 @@ generate_icons.py
 *.vsix
 .DS_Store
 node_modules/
+.git/
+.github/
+*.log
+PUBLISHING.md
+.gitignore

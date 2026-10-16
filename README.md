@@ -1,11 +1,8 @@
-# ByteStackLab Icons
+# ByteStackLab Theme Icons
 
-<p align="center">
-  <img src="./images/icon.png" width="128" alt="ByteStackLab Icons Logo"/>
-</p>
+![ByteStackLab Theme Icons Logo](images/icon.png)
 
-<h3 align="center">ByteStackLab Icons</h3>
-<p align="center">Material-style file icon theme designed to match the <strong>ByteStackLab Material Theme</strong></p>
+Material-style file icon theme designed to match the **ByteStackLab Material Theme**.
 
 ---
 
@@ -35,7 +32,7 @@ All icons use the ByteStackLab Material Theme palette:
 
 1. Install from VS Code Marketplace
 2. Open Command Palette → `Preferences: File Icon Theme`
-3. Select **ByteStackLab Icons**
+3. Select **ByteStackLab Theme Icons**
 
 ## Pairing
 
