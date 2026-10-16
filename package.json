@@ -1,7 +1,7 @@
 {
   "name": "bytestacklab-theme-icons",
   "displayName": "ByteStackLab Theme Icons",
-  "description": "Material-style file icon theme matching ByteStackLab Material Theme. Dark, vibrant icons for VS Code.",
+  "description": "File icon theme crafted for ByteStackLab Material Theme. Clean, vibrant icons for VS Code.",
   "version": "1.0.0",
   "publisher": "bytestacklab",
   "license": "MIT",
@@ -13,10 +13,10 @@
   "keywords": [
     "icons",
     "icon theme",
-    "material icons",
     "file icons",
     "bytestack",
     "bytestacklab",
+    "theme",
     "dark"
   ],
   "galleryBanner": {

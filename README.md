@@ -2,7 +2,7 @@
 
 ![ByteStackLab Theme Icons Logo](images/icon.png)
 
-Material-style file icon theme designed to match the **ByteStackLab Material Theme**.
+File icon theme designed to match the **ByteStackLab Material Theme**.
 
 ---
 
