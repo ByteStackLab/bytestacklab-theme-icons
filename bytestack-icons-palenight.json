@@ -16633,7 +16633,8 @@
     "manage.py": "django",
     "pubspec.yaml": "flutter",
     "pubspec.lock": "flutter",
-    "schema.prisma": "prisma"
+    "schema.prisma": "prisma",
+    "laravel.blade.php": "blade"
   },
   "languageIds": {
     "git": "git",
@@ -16838,7 +16839,8 @@
     "instructions": "instructions",
     "blade": "blade",
     "laravel-blade": "blade",
-    "astro": "astro"
+    "astro": "astro",
+    "php-blade": "blade"
   },
   "light": {
     "fileExtensions": {
