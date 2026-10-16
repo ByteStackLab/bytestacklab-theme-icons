@@ -1,5 +1,5 @@
 {
-  "name": "bytestacklab-icons",
+  "name": "bytestacklab-theme-icons",
   "displayName": "ByteStackLab Theme Icons",
   "description": "File icon theme by ByteStackLab with clean and vibrant programming icons for VS Code.",
   "version": "1.0.0",
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bytestacklab/bytestacklab-theme-icons"
+    "url": "https://github.com/ByteStackLab/bytestacklab-theme-icons"
   },
-  "homepage": "https://bytestacklab.com",
+  "homepage": "https://github.com/ByteStackLab/bytestacklab-theme-icons#readme",
   "bugs": {
-    "url": "https://github.com/bytestacklab/bytestacklab-theme-icons/issues"
+    "url": "https://github.com/ByteStackLab/bytestacklab-theme-icons/issues"
   },
   "contributes": {
     "iconThemes": [
