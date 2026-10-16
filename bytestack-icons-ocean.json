@@ -3764,6 +3764,9 @@
     },
     "folder-root-open_ocean": {
       "iconPath": "./icons/folder-root-open_ocean.svg"
+    },
+    "blade": {
+      "iconPath": "./icons/blade.svg"
     }
   },
   "folderNames": {
@@ -13978,8 +13981,8 @@
     "tfbackend": "terraform",
     "terraformignore": "terraform",
     "tofu": "opentofu",
-    "blade.php": "laravel",
-    "inky.php": "laravel",
+    "blade.php": "blade",
+    "inky.php": "blade",
     "applescript": "applescript",
     "ipa": "applescript",
     "cake": "cake",
@@ -14471,7 +14474,8 @@
     "skills.md": "skill",
     "instructions.md": "instructions",
     "instruction.md": "instructions",
-    "mrpack": "mrpack"
+    "mrpack": "mrpack",
+    "blade": "blade"
   },
   "fileNames": {
     ".pug-lintrc": "pug",
@@ -14546,10 +14550,10 @@
     "markdoc.config.ts": "markdoc-config",
     "markdoc.config.mts": "markdoc-config",
     "markdoc.config.cts": "markdoc-config",
-    "astro.config.js": "astro-config",
-    "astro.config.mjs": "astro-config",
+    "astro.config.js": "astro",
+    "astro.config.mjs": "astro",
     "astro.config.cjs": "astro-config",
-    "astro.config.ts": "astro-config",
+    "astro.config.ts": "astro",
     "astro.config.cts": "astro-config",
     "astro.config.mts": "astro-config",
     ".vsconfig": "visualstudio",
@@ -16621,7 +16625,15 @@
     "appwrite.ts": "appwrite",
     "eas.json": "expo",
     ".easignore": "expo",
-    "agents.md": "agent"
+    "agents.md": "agent",
+    "nuxt.config.mjs": "nuxt",
+    "nuxt.config.cjs": "nuxt",
+    "next.config.cjs": "next",
+    ".nestcli.json": "nest",
+    "manage.py": "django",
+    "pubspec.yaml": "flutter",
+    "pubspec.lock": "flutter",
+    "schema.prisma": "prisma"
   },
   "languageIds": {
     "git": "git",
@@ -16823,7 +16835,10 @@
     "cue": "cue",
     "lean": "lean",
     "skill": "skill",
-    "instructions": "instructions"
+    "instructions": "instructions",
+    "blade": "blade",
+    "laravel-blade": "blade",
+    "astro": "astro"
   },
   "light": {
     "fileExtensions": {
