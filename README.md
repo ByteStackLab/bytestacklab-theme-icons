@@ -14,15 +14,22 @@ File icon theme designed to match the **ByteStackLab Material Theme**.
 - 🎨 **Cohesive Aesthetic** — Designed to pair seamlessly with ByteStackLab Material Theme
 - 🚀 **Ultra-lightweight** — Pure optimized SVGs with zero runtime overhead
 
+## Variants
+
+- **ByteStackLab Theme Icons** — Classic Dark variant
+- **ByteStackLab Theme Icons Ocean** — Deep ocean blue-tinted folders
+- **ByteStackLab Theme Icons Palenight** — Purple-tinted dark folders
+- **ByteStackLab Theme Icons Light** — Clean light folders
+
 ## Installation
 
 1. Install from VS Code Marketplace
 2. Open Command Palette → `Preferences: File Icon Theme`
-3. Select **ByteStackLab Theme Icons**
+3. Select your preferred **ByteStackLab Theme Icons** variant
 
 ## Pairing
 
-Best used with **[ByteStackLab Material Theme](https://marketplace.visualstudio.com/items?itemName=bytestacklab.bytestacklab-material-theme)** for a fully cohesive look.
+Pairs directly with **[ByteStackLab Material Theme](https://marketplace.visualstudio.com/items?itemName=bytestacklab.bytestacklab-material-theme)** (Dark, Ocean, Palenight, and Light) for a fully unified experience.
 
 ## License
 

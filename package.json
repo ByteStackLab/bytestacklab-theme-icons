@@ -37,6 +37,21 @@
         "id": "bytestacklab-theme-icons",
         "label": "ByteStackLab Theme Icons",
         "path": "./bytestack-icons.json"
+      },
+      {
+        "id": "bytestacklab-theme-icons-ocean",
+        "label": "ByteStackLab Theme Icons Ocean",
+        "path": "./bytestack-icons-ocean.json"
+      },
+      {
+        "id": "bytestacklab-theme-icons-palenight",
+        "label": "ByteStackLab Theme Icons Palenight",
+        "path": "./bytestack-icons-palenight.json"
+      },
+      {
+        "id": "bytestacklab-theme-icons-light",
+        "label": "ByteStackLab Theme Icons Light",
+        "path": "./bytestack-icons-light.json"
       }
     ]
   }
