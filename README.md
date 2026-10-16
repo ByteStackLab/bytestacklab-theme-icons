@@ -8,25 +8,11 @@ File icon theme designed to match the **ByteStackLab Material Theme**.
 
 ## Features
 
-- 🎨 **Perfectly matched** with ByteStackLab Material Theme colors
-- 📁 **Smart folder icons** — `src`, `components`, `dist`, `node_modules`, and more
-- 📄 **50+ file type icons** — JS, TS, Python, Go, Rust, Docker, and more
-- ⚡ **Lightweight** — Pure SVG, no fonts needed
-
-## Color Palette
-
-All icons use the ByteStackLab Material Theme palette:
-
-| Color | Hex | Used For |
-|-------|-----|----------|
-| 🩵 Teal | `#80CBC4` | Vue, default folders |
-| 🔵 Blue | `#82AAFF` | TypeScript, Python, C |
-| 💜 Purple | `#C792EA` | PHP, Kotlin, C#, images |
-| 🟡 Yellow | `#FFCB6B` | JavaScript, JSON, folders |
-| 🟢 Green | `#C3E88D` | Vue, Shell, test folders |
-| 🔴 Red/Coral | `#f07178` | Ruby, Java, Svelte |
-| 🟠 Orange | `#F78C6C` | HTML, Rust, Swift, TOML |
-| 🩵 Cyan | `#89DDFF` | JSX, Go, SQL, Docker |
+- 🎯 **Official Language & Tool Logos** — Authentic icons for JavaScript, TypeScript, Python, React, Vue, PHP, Go, Rust, Java, Docker, Git, and 100+ other technologies
+- 📁 **Smart Folder Icons** — Custom folder icons for `src`, `components`, `dist`, `node_modules`, `tests`, `docs`, and 4,000+ directory patterns with open/closed states
+- ⚡ **Complete Coverage** — Over 1,200+ icons covering 1,300+ file extensions and 2,000+ filenames
+- 🎨 **Cohesive Aesthetic** — Designed to pair seamlessly with ByteStackLab Material Theme
+- 🚀 **Ultra-lightweight** — Pure optimized SVGs with zero runtime overhead
 
 ## Installation
 
